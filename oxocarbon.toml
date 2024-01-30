@@ -44,3 +44,7 @@
 "ui.popup" = { fg = "#ffffff", bg = "#262626" }
 "ui.window" = { fg = "#ffffff", bg = "#262626" }
 "ui.menu" = { fg = "#ffffff", bg = "#262626" }
+"diagnostic.error" = { fg = "#b3b3b3", bg = "#262626", underline = { color = "#ff0000", style = "curl"} }
+"diagnostic.warning" = { fg = "#b3b3b3", bg = "#262626", underline = { color = "#ff6f00", style = "curl"} }
+"error" = { fg = "#ffffff", bg = "#262626" }
+"warning" = { fg = "#ffffff", bg = "#262626" }
