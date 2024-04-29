@@ -29,7 +29,7 @@
 "diff.minus" = { fg = "#78a9ff", bg = "#393939" }
 "diff.delta" = { fg = "#dde1e6", bg = "#262626" }
 
-"ui.background" = "#161616"
+"ui.background" = "#ffffff"
 "ui.separator" = "#161616"
 "ui.selection" = { bg = "#393939"}
 "ui.text" = { fg = "#ffffff" }
